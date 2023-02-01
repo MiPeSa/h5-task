@@ -59,7 +59,7 @@ Tein uuden käyttäjän ``vierailija`` seurasin komentokehotteen ohjeita ja syö
 Tein myös vieras käyttäjälle kotisivun. 
 
 - Tein kotihakemistoon kansion komennolla: ``$ mkdir public_html`` siirryin kansioon ``$ cd public_html/``
--Tein microlla ``index.html`` tiedoston ``$ micro index.html``, johon kirjoitin tekstin, jonka halusin näkyvän sivulla.
+- Tein microlla ``index.html`` tiedoston ``$ micro index.html``, johon kirjoitin tekstin, jonka halusin näkyvän sivulla.
 - Testasin toimintaa komentokehotteessa ``$ curl 'http://localhost/~vierailija/'``. Palvelin vastasi kirjoittamallani tekstillä.
 
 ![Add file: Curl](curl-hello-vierailija.png)
