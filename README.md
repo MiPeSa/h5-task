@@ -87,3 +87,5 @@ Koitin ensin testata ``Validate by URI`` menetelmällä. Syötin ``http://localh
 Valitsin sitten seuraavaksi vaihtoehdoksi ``Validate by File Upload``, jolla sain tsekattua tiedoston.
 
 ![Add file: validation file](validation-file.png)
+
+Tämä antoi yhden varoituksen, etten ollut määritellyt kieli attribuuttia tiedostoon.
