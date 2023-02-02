@@ -1,16 +1,5 @@
 # h5 Tehtävä
 
-x) Kuuntele ja tiivistä. Tiivistelmäksi riittää muutama ranskalainen viiva per artikkeli. (Tässä alakohdassa ei tarvitse tehdä testejä tietokoneella)
-Indie Hackers -podcast, vapaavalintainen jakso, jossa hyödynnetään weppiä kaupallisesti.
-
-a) Vaihda Apachen esimerkkisivu johonkin lyheen sivuun niin, että vanha esimerkkisivu ei näy. (Tämä lienee ainoa kohta, jossa ikinä muokkaat weppisivua pääkäyttäjän oikeuksin. /var/www/html/index.html)
-
-b) Laita käyttäjien kotisivut (http://example.com/~tero) toimimaan. Testaa esimerkkikotisivulla.
-
-c) Tee uusi käyttäjä. Kirjaudu ulos omastasi ja sisään uutena käyttäjänä. Tee uudellekin käyttäjälle kotisivu.
-
-d) Tee validi HTML5 sivu.
-
 ## x) Indie Hacker Podcast
 
 ### Jakso #246 - Doing Content Right With Step Smith of Trend.co.
@@ -25,7 +14,7 @@ d) Tee validi HTML5 sivu.
 -  Smith aloitti uuden Podcastin 30 päivän haasteella. Äänittivät joka päivä uuden jakson ja julkaisivat sen yleisölle. Testasivat näin taitoja sekä sitoutumista podcastin tekemiseen. 
 -  Allen sekä Steph puhuivat, että tärkeää yrittää paljon eri projekteilla. Kaikki ei onnistu, mutta jotkut projektit voivat lyödä läpi. Varsinkin oppiminen epäonnistuneista projekteista. Epäonnistumisiin ei pidä tarttua liikaa. 
 -  Allen kysyi miten Smith sai podcastin suosioon, sillä niitä on valtava määrä nykyään. Smith sanoo, että perinteiset analytiikka työkalut eivät ole auttaneet podcastin yleisön tavoittamiseen. Smith nosti esiin kaikkien kanavien käyttämisen, joissa on liikennettä sekä yleisöä. Smithille tämä alusta oli Twitter, jossa hänellä oli paljon seuraajakuntaa. Smith teki twiitin aiheesta ennen podcastia, jolloin twiitit tulivat suosituksi ja keräsivät tuhansia tykkäyksiä sekä jakoja. Tämän jälkeen hän twiittasi, että podcast on julkaistu jakson aiheesta, joka toi paljon lisää latauksia sekä ihmisiä kuuntelemaan jaksoa.
--  Allen antoi vielä loppuun ohjeita podcastista. Kehotti kaikkia kiinnostuneita kokeilemaan podcastin tekemistä pienellä kynnyksellä. Smith mainitsi vielä loppuun, että luovuuden varaa on podcasteissa. Monella hyvin samantyylisiä podcasteja. Kehotti ihmisiä kokeilemaan erilaisia tyylejä, eikä pelkästään katsomaan listoja, koska joillakin podcasteilla on vain yksinkertaisesti niin iso seuraajakunta. Ne eivät välttämättä ole niin suosittuja sisällön vuoksi. 
+-  Allen antoi vielä loppuun ohjeita podcastista. Kehotti kaikkia kiinnostuneita kokeilemaan podcastin tekemistä pienellä kynnyksellä. Smith mainitsi vielä loppuun, että luovuuden varaa on podcasteissa. Monella hyvin samantyylisiä podcasteja. Kehotti ihmisiä kokeilemaan erilaisia tyylejä, eikä pelkästään katsomaan listoja. Hän muistuttaa, että vaikka joillakin podcasteilla on yksinkertaisesti valtava seuraajakunta, täytyy muistaa, että ne eivät välttämättä ole niinkään suosittuja sisällön vuoksi vaan henkilön tunnettavuuden. 
 
 
 ## a) Vaihda Apachen esimerkkisivu johonkin lyheen sivuun niin, että vanha esimerkkisivu ei näy.
