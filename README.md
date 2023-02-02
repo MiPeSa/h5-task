@@ -11,7 +11,28 @@ c) Tee uusi käyttäjä. Kirjaudu ulos omastasi ja sisään uutena käyttäjän�
 
 d) Tee validi HTML5 sivu.
 
-## x) 
+## x) Indie Hacker Podcast
+
+### Jakso #246 - Doing Content Right With Step Smith of Trend.co.
+
+
+- Courtland Allen on podcastin juontaja ja vieraana on Steph Smith. Perustanut Trend.co yrityksen, joka toimittaa uutislehtisiä.
+- Monia eri projekteja vuosien varrelta. Uusinpana projektina perustanut Podcastin "The Sh*t You Don't learn in School".  
+- Idea syntyi kestävän yhteyden luomisesta ihmisten sekä mahdollisten asiakkaiden kanssa. Verrattuna esimerkiksi sähköpostilla välitettäviin uutiskirjeisiin, podcast luo syvemmän yhteyden ihmisten kanssa lyhyen uutiskirjeen silmäilyn sijaan. Tunnistettavuus myös lisääntyy, joka on hyvä asia esimerkiksi uutiskirjeiden kannalta.
+- Steph harmittelee, että opiskelu perustuu päöäosin opettamiseen arvosanoja varten. Perustelee, että ihmiset opetetaan hyvin saamaan hyviä arvosanoja, mutta hyvän arvosanan jälkeen asiat eivät jää hyvin muistiin. Kritisoi myös sitä, että nykyajan materiaaleilla testit voisivat olla "open book", koska nykyään on niin valtavasti hyviä materiaaleja saatavilla, joita käytetään myös työelämässä. Miksi koulussa ei opetettaisi hyödyntämään näitä lähteitä, eikä pelkästään muistamaan asioita ulkoa.
+- Steph:n mielestä tietojenkäsittelytiedettä pitäisi opettaa jo aikaisesta vaiheesta opinnoista. 
+- Steph kävi vaihdossa opintojen aikaan Ruotsissa, kehui Ruotsin opiskelusysteemiä paremmaksi, koska se ei keskittynyt pelkästään niin vahvasti arviointiin tai tietyn % määrän saamiseen kokeista.
+-  Nykyajan saatavilla oleva materiaalia netin välityksellä mahdollistaa ihmisten oppimisen myös itsenäisesti. Ei tarvita välttämättä isoja opistoja oppimista varten. Erilaisia asioita pystyy todella hyvin oppimaan myös netin välityksellä.
+-  Internetin markettiarvo on valtava, sen käsittämättömän suuren käyttäjämäärän takia. 
+-  Smith aloitti uuden Podcastin 30 päivin haasteella. Äänittivät joka päivä uuden jakson ja julkaisivat sen yleisölle. Testasivat näin taitoja sekä sitoutumista podcastin tekemiseen. 
+-  Steph Smith on oppinut itse alusta asti koodaamaan aivan nollasta ja kehittämään ohjelmia.
+-  Allen sekä Steph puhuivat, että tärkeää yrittää paljon eri projekteilla. Kaikki ei onnistu, mutta jotkut projektit voivat lyödä läpi. Kehittyminen sekä oppiminen projektien aikana. Varsinkin oppiminen epäonnistuneista projekteista. Epäonnistumisiin ei pidä tarttua liikaa. 
+-  Allen kysyi miten smith pääsi suosioon Podcastin avulla niiden valtavan määrän takia.
+-  Smith sanoo, että analytiikka työkalut eivät ole niin hyödyllisiä podcastin yleisön tavoittamiseen. Kaikkien kanavien käyttäminen missä on liikennettä sekä yleisöä sen sijaan toimii paremmin. Smithille tämä alusta oli Twitter, jossa hänellä oli paljon seuraajakuntaa. Smith teki twiitin aiheesta ennen podcastia, jolloin twiitit tulivat suosituksi ja keräsivät tuhansia tykkäyksiä sekä jakoja. Tämän jälkeen hän twiittasi, että podcast on julkaistu jakson aiheesta, joka toi paljon lisää latauksia sekä ihmisiä kuuntelemaan jaksoa.
+-  Tavoitteena 50 000 latausta kuukaudessa podcastin avulla. Smith haaveilee 50 000 latauksesta per jakso. Nykyään jaksoilla on ~3 000 kuuntelijaa per jakso. Allen kertoi, että Indie Hackers podcastilla on ~15 000 kuuntelijaa per jakso.
+-  Allen antoi vielä loppuun ohjeita podcastista. Kehotti kaikkia kiinnostuneita kokeilemaan podcastin tekemistä pienellä kynnyksellä esimerkiksi juttelemalla perheen kesken samalla äänittämällä keskustelun ja kuuntelemalla sen jälkeen äänitteen.
+- Smith mainitsi vielä loppuun, että luovuuden varaa on podcasteissa. Monella hyvin samantyylisiä podcasteja. Kehotti ihmisiä kokeilemaan erilaisia tyylejä, eikä pelkästään katsomaan listoja, koska joillakin podcasteilla on vain yksinkertaisesti niin iso seuraajakunta. Ne eivät välttämättä ole niin suosittuja sisällön vuoksi. 
+
 
 ## a) Vaihda Apachen esimerkkisivu johonkin lyheen sivuun niin, että vanha esimerkkisivu ei näy.
 
@@ -89,3 +110,7 @@ Valitsin sitten seuraavaksi vaihtoehdoksi ``Validate by File Upload``, jolla sai
 ![Add file: validation file](validation-file.png)
 
 Tämä antoi yhden varoituksen, etten ollut määritellyt kieli attribuuttia tiedostoon.
+
+## Lähteet
+
+Karvinen Tero 2012: https://terokarvinen.com/2012/short-html5-page/
