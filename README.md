@@ -47,7 +47,7 @@ Komento otti käyttöön ``userdir.`` moduulin. Jotta uusi kokoonpano aktivoituu
 
 - Tämän jälkeen tein ensin kotihakemistoon kansion ``public_html`` komennolla: ``$ mkdir public_html``. 
 - Menin ``public_html`` kansioon ``cd public_html/`` komennolla. 
-- Kansioon tein ``micro`` ohjelmalla ``index.html`` tiedoston komennolla ``micro index.html``. Tiedostoon kirjoitin tekstin, jonka halusin tulostuvan sivulle. 
+- Kansioon tein ``micro`` ohjelmalla ``index.html`` tiedoston komennolla ``$ micro index.html``. Tiedostoon kirjoitin tekstin, jonka halusin tulostuvan sivulle. 
 - Tarkistin, että sivu vastaa halutulla tavalla ``$ curl 'http://localhost/~miikkas/'``. Palvelin vastasi tekstillä, jonka olin kirjoittanut ``index.html`` tiedostoon eli tämä toimii.
 
 ![Add file: Curl](web-helloms.png)
