@@ -102,5 +102,5 @@ Tämä antoi yhden varoituksen, etten ollut määritellyt kieli attribuuttia tie
 
 ## Lähteet
 
-Karvinen Tero 2012, Short HTML5 page, Luettavissa: https://terokarvinen.com/2012/short-html5-page/
-Karvinen Tero, h5 Hello Web, Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h5-hello-web
+- Karvinen Tero 2012, Short HTML5 page, Luettavissa: https://terokarvinen.com/2012/short-html5-page/
+- Karvinen Tero, h5 Hello Web, Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h5-hello-web
