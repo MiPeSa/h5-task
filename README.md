@@ -1,5 +1,11 @@
 # h5 Tehtävä
 
+## Kone
+- MacBook Air(2015)
+- Intel i5 1,6 GHz Dual-Core prossu
+- 8 GB RAM
+- macOS Monterey v.12.6.2
+
 ## x) Indie Hacker Podcast
 
 ### Jakso #246 - Doing Content Right With Step Smith of Trend.co.
@@ -43,9 +49,9 @@ Aloitin syöttämällä komennon
 
     $ sudo a2enmod userdir
    
-Komento otti käyttöön ``userdir.`` moduulin. Jotta uusi kokoonpano aktivoituu täytyy apache2 palvelin käynnistää uudelleen. Käynnistin palvelimen uudelleen komennolla ``$ sudo systemctl restart apache2``
+Komento otti käyttöön ``userdir`` moduulin. Userdir mahdollistaa laitteen käyttäjien sisällön jakamisen kotihakemistossaan Apachen avulla. Jotta uusi kokoonpano aktivoituu täytyy apache2 palvelin käynnistää uudelleen. Käynnistin palvelimen uudelleen komennolla ``$ sudo systemctl restart apache2``
 
-- Tämän jälkeen tein ensin kotihakemistoon kansion ``public_html`` komennolla: ``$ mkdir public_html``. 
+- Tämän jälkeen tein ensin kotihakemistoon kansion ``public_html`` komennolla: ``$ mkdir public_html``. ``public_html`` kansion avulla laitteen käyttäjät pystyvät luomaan html- tiedostoja jaettavaksi ja käytettäväksi verkkoselaimen kautta.
 - Menin ``public_html`` kansioon ``cd public_html/`` komennolla. 
 - Kansioon tein ``micro`` ohjelmalla ``index.html`` tiedoston komennolla ``$ micro index.html``. Tiedostoon kirjoitin tekstin, jonka halusin tulostuvan sivulle. 
 - Tarkistin, että sivu vastaa halutulla tavalla ``$ curl 'http://localhost/~miikkas/'``. Palvelin vastasi tekstillä, jonka olin kirjoittanut ``index.html`` tiedostoon eli tämä toimii.
