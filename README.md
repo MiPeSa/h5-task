@@ -11,7 +11,7 @@
 ### Jakso #246 - Doing Content Right With Step Smith of Trend.co.
 
 
-- Courtland Allen on podcastin juontaja ja vieraana on Steph Smith. Perustanut Trend.co yrityksen, joka toimittaa uutislehtisiä.
+- Courtland Allen on podcastin juontaja ja vieraana on Steph Smith. Perustanut Trends.co yrityksen, joka toimittaa uutislehtisiä.
 - Monia eri projekteja vuosien varrelta. Uusinpana projektina perustanut Podcastin "The Sh*t You Don't learn in School". Idea syntyi kestävän yhteyden luomisesta ihmisten sekä mahdollisten asiakkaiden kanssa. Verrattuna esimerkiksi sähköpostilla välitettäviin uutiskirjeisiin, podcast luo syvemmän yhteyden ihmisten kanssa lyhyen uutiskirjeen silmäilyn sijaan. Tunnistettavuus myös lisääntyy, joka on hyvä asia esimerkiksi uutiskirjeiden kannalta.
 - Smith harmittelee, että opiskelu perustuu pääosin opettamiseen arvosanoja varten. Perustelee, että ihmiset opetetaan hyvin saamaan hyviä arvosanoja, mutta hyvän arvosanan jälkeen asiat eivät jää hyvin muistiin. Kritisoi myös sitä, että nykyajan materiaaleilla testit voisivat olla "open book", koska nykyään on niin valtavasti hyviä materiaaleja saatavilla, joita käytetään myös työelämässä. Miksi koulussa ei opetettaisi hyödyntämään näitä lähteitä, eikä pelkästään muistamaan asioita ulkoa.
 - Smith:n mielestä tietojenkäsittelytiedettä pitäisi opettaa jo aikaisesta vaiheesta opinnoista. 
